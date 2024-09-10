@@ -1,2 +1,2 @@
 # amaraa
-update README.md
+My name is Amarsaikhan
